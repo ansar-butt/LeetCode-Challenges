@@ -3,17 +3,13 @@ A public repo detailing my approach to various LeetCode challenges.
 
 ## Challenges Completed:
 ### Hard
-<ul>
-  <li>[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists). -> kSort.py </li>
-  <li>[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/). -> longestParanthesis.py </li>
-</ul>
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) -> kSort.py
+- [Longest Valid Parentheses](https://leetcodecom/problems/longest-valid-parentheses/) -> longestParanthesis.py
+
 
 ### Medium
-<ul>
-  <li>[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/). -> addTwo.py </li>
-</ul>
+- [Add Two Numbers](https://leetcodecom/problems/add-two-numbers/description/) -> addTwo.py
 
 ### Easy
-<ul>
-  <li>[Two Sum](https://leetcode.com/problems/two-sum/description/). -> twoSum.py </li>
-</ul>
+- [Two Sum](https://leetcode.com/problems/two-sum/description/) -> twoSum.py
+
