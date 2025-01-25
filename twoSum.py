@@ -14,6 +14,7 @@ class Solution(object):
         index = -1
         for each in nums:
             index += 1
+            # Handling the cases for target / 2
             if each in numMaps and each * 2 == target:
                 return [numMaps[each], index]
             else:
