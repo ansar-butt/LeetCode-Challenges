@@ -13,6 +13,7 @@ A public repo detailing my approach to various LeetCode challenges.
 
 - [Add Two Numbers](https://leetcodecom/problems/add-two-numbers/description/) -> addTwo.py
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) -> longestPalindrome.py
+- [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) -> zigzagConversion.py
 
 ### Easy
 
