@@ -8,6 +8,7 @@ A public repo detailing my approach to various LeetCode challenges.
 
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) -> kSort.py
 - [Longest Valid Parentheses](https://leetcodecom/problems/longest-valid-parentheses/) -> longestParanthesis.py
+- [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) -> findMedian.py
 
 ### Medium
 
