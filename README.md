@@ -9,13 +9,13 @@ A public repo detailing my approach to various LeetCode challenges.
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) -> kSort.py
 - [Longest Valid Parentheses](https://leetcodecom/problems/longest-valid-parentheses/) -> longestParanthesis.py
 - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) -> findMedian.py
-- [Reverse Integer](https://leetcode.com/problems/reverse-integer) -> findMedian.py
 
 ### Medium
 
 - [Add Two Numbers](https://leetcodecom/problems/add-two-numbers/description/) -> addTwo.py
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) -> longestPalindrome.py
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) -> zigzagConversion.py
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water) -> waterContainer.py
 
 ### Easy
 
