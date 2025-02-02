@@ -16,6 +16,7 @@ A public repo detailing my approach to various LeetCode challenges.
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) -> longestPalindrome.py
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) -> zigzagConversion.py
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water) -> waterContainer.py
+- [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) -> int2Roman.py
 
 ### Easy
 
