@@ -7,7 +7,7 @@ A mapping of digits to letters (just like on the telephone buttons) is given bel
 from typing import List
 
 
-# Space Complexity: 99th Percentile
+# Memory: Beats 100%
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         def helper(digit, string):
