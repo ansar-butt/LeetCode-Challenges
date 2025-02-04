@@ -4,7 +4,7 @@ Given a string s, return the longest palindromic substring in s.
 """
 
 
-# Space Complexity: 99th Percentile
+# Memory: Beats 100%
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         def isPalindrome(string: str) -> bool:

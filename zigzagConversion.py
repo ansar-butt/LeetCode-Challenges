@@ -11,7 +11,7 @@ string convert(string s, int numRows);
 """
 
 
-# 99.99th Percentile Space Complexity
+# Memory: Beats 100%
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if numRows == 1 or len(s) == 0:

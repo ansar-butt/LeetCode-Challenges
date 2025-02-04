@@ -10,7 +10,7 @@ double findMedian() returns the median of all elements so far. Answers within 10
 """
 
 
-# Space Complexity: 99th Percentile
+# Memory: Beats 100%
 class MedianFinder:
 
     def __init__(self):
