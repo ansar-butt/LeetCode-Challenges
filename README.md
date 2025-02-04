@@ -17,8 +17,8 @@ A public repo detailing my approach to various LeetCode challenges.
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) -> zigzagConversion.py
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water) -> waterContainer.py
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) -> int2Roman.py
-- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) -> letterCombo.py
-- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) -> removeN.py
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) -> letterCombo.py
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) -> removeN.py
 
 ### Easy
 
